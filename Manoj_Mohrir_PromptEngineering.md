@@ -1,6 +1,6 @@
 # Prompt Engineering Portfolio
 
-**Name:** [Your Name]
+**Name:** [Manoj G Mohrir]
 **Date:** June 4, 2026
 **LLM Used:** Claude (Anthropic) — claude-sonnet-4-6
 
@@ -66,12 +66,12 @@
 
 > Subject: Job Offer — Decision
 >
-> Dear Hiring Manager,
+> Dear Kamaljeet ,
 >
 > Thank you for offering me the position. After careful consideration, I have decided to decline the offer at this time. I am still interested in your company and hope we can work together in the future.
 >
 > Best regards,
-> [Your Name]
+> [Manoj G Mohrir]
 
 *Assessment:* Far too brief and generic. It doesn't explain the reason for declining in a way that feels genuine, doesn't thank the team specifically, and doesn't leave a warm door open for future opportunities.
 
@@ -85,7 +85,7 @@
 
 > Subject: Re: Software Engineer Offer — Horizon Tech
 >
-> Dear [Hiring Manager's Name],
+> Dear Kamaljeet,
 >
 > Thank you so much for offering me the Software Engineer position at Horizon Tech. I was genuinely impressed by the team and the innovative work you're doing, and this decision was not an easy one to make.
 >
@@ -94,7 +94,7 @@
 > I sincerely hope our paths cross again in the future, and I will certainly keep Horizon Tech in mind as my career develops. Thank you again for your time, your kindness, and the opportunity.
 >
 > Warm regards,
-> [Your Name]
+> [Manoj G Mohrir]
 
 *Assessment:* This is much more polished. However, I want to add a slightly more specific compliment about the company to make it feel even more personal and memorable.
 
@@ -108,7 +108,7 @@
 
 > Subject: Re: Software Engineer Offer — Horizon Tech
 >
-> Dear [Hiring Manager's Name],
+> Dear Kamaljeet,
 >
 > Thank you sincerely for offering me the Software Engineer position at Horizon Tech. I thoroughly enjoyed every stage of the interview process, and I came away with a deep respect for your team's collaborative culture and the meaningful products you're building.
 >
@@ -119,7 +119,7 @@
 > Thank you again for your time, your generosity throughout the process, and for this wonderful opportunity.
 >
 > Warmly,
-> [Your Name]
+> [Manoj G Mohrir]
 
 ---
 
